@@ -7,7 +7,7 @@ document.getElementById('submit-btn').addEventListener('click', function () {
     const password = passwordBox.value;
 
     // NOTE: WE NEVER USE THIS METHOD 
-    if (email === 'naanziba@gmail.com' && password === 'naanziba') {
+    if (email === 'asif@gmail.com' && password === 'asif1234') {
         window.location.href = 'bank.html'
     }
     else {
